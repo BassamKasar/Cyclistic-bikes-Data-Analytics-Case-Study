@@ -25,7 +25,9 @@ Analyze Cyclistic’s historical trip data to:
 ---
 
 ## 🔧 Tools & Methods  
-- **Data Cleaning:** Excel (TRIM, TEXT, Filters), removal of duplicates, handling blanks and outliers.  
+- **Data Cleaning:** Excel (TRIM, TEXT, Filters), removal of duplicates, handling blanks and outliers.
+- **SQL (MySQL/BigQuery)** – Queried and explored trip data.
+- **R Programming** – built polished visualizations (ggplot2).  
 - **Analysis:** Pivot tables and descriptive statistics.  
 - **Visualization:** PowerPoint charts and tables for trends and recommendations.  
 - **Process:** Followed the 6-step data analysis process – Ask, Prepare, Process, Analyze, Share, Act.
